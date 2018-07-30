@@ -1,0 +1,22 @@
+body {
+        background-image: url("lebronjames-lakers.jpg") ;
+
+ }
+
+
+header{
+    color:rgb(241, 241, 241);
+    font-size: 45px;
+}
+
+#pride {
+    color: white;
+    display: flex;
+    height: 30%;
+    border-bottom: rgb(247, 210, 48) double 1em;
+    border-top: rgb(233, 199, 9) double 1em
+}
+#pride > h1 {
+ margin: auto;
+}
+
